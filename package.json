@@ -1,0 +1,12 @@
+{
+  "name": "javascript-demo",
+  "version": "1.0.0",
+  "description": "| **Características** | **Stack (Pilha)**               | **Queue (Fila)**               |\r |---------------------|---------------------------------|--------------------------------|\r | **Princípio**        | LIFO (Last In, First Out)       | FIFO (First In, First Out)     |\r | **Inserção**         | `push()` no topo               | `enqueue()` no final           |\r | **Remoção**          | `pop()` do topo                | `dequeue()` do início          |\r | **Uso comum**        | Funções recursivas, undo/redo  | Filas de atendimento, buffers  |\r | **Exemplo físico**   | Pilha de pratos                | Fila de pessoas                |",
+  "main": "fibonacciSequence.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
